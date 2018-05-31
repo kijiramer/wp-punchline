@@ -1,0 +1,114 @@
+# Translation of Stable (latest release) in French (France)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-21 06:12:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: hueman-addons.php:95
+msgid "Since Nov. 2015, Twitter disabled the share counts from its API. If you want to get the display count anyway, you can create an account for free (as of Feb. 2016) on [https://opensharecount.com/]. The Hueman Addons plugin is configured to use opensharecount."
+msgstr "Depuis Novembre 2015, Twitter a désactivé le compteur de partages de son API. Si vous souhaitez tout de même obtenir le nombre de partages, vous pouvez créer un compte gratuitement (en février 2016) sur [https://opensharecount.com/]. Le plugin Hueman Addons est configuré pour utiliser opensharecount."
+
+#. #-#-#-#-#  tmp-hueman-addons.pot (Hueman Addons 1.0.8)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-hueman-addons.pot (Hueman Addons 1.0.8)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://presscustomizr.com"
+msgstr "http://presscustomizr.com"
+
+#: hueman-addons.php:92
+msgid "Enable Twitter Button"
+msgstr "Activer le bouton Twitter"
+
+#: hueman-addons.php:101
+msgid "Twitter Username (without \"@\")"
+msgstr "Nom d'utilisateur Twitter (sans le \"@\")"
+
+#: hueman-addons.php:102
+msgid "Simply enter your username without the \"@\" prefix. Your username will be added to share-tweets of your posts (optional)."
+msgstr "Saisir votre nom d'utilisateur sans le préfixe \"@\". Votre nom d'utilisateur sera ajouté aux \"tweets\" de vos articles (optionnel)."
+
+#: hueman-addons.php:111
+msgid "Enable Facebook Button"
+msgstr "Activer le bouton Facebook"
+
+#: hueman-addons.php:119
+msgid "Enable Google Plus Button"
+msgstr "Activer le bouton Google Plus"
+
+#: hueman-addons.php:127
+msgid "Enable Pinterest Button"
+msgstr "Activer le bouton Pinterest"
+
+#: hueman-addons.php:135
+msgid "Enable LinkedIn Button"
+msgstr "Activer le bouton LinkedIn"
+
+#: hueman-addons.php:278
+msgid "works only with the Hueman theme"
+msgstr "fonctionne uniquement avec le thème Hueman"
+
+#: hueman-addons.php:284
+msgid "The <strong>%1$s</strong> plugin %2$s."
+msgstr "Le plugin <strong>%1$s</strong> %2$s."
+
+#: inc/sharrre-template.php:2
+msgid "Share"
+msgstr "Partager"
+
+#: inc/sharrre-template.php:7
+msgid "Like"
+msgstr "Aimer"
+
+#: inc/sharrre-template.php:10
+msgid "+1"
+msgstr "+1"
+
+#: inc/sharrre-template.php:13
+msgid "Pin It"
+msgstr "Pin It"
+
+#. Author of the plugin/theme
+msgid "Press Customizr"
+msgstr "Press Customizr"
+
+#: inc/sharrre-template.php:4
+msgid "Tweet"
+msgstr "Tweeter"
+
+#: inc/sharrre-template.php:16
+msgid "Publish on Linked In"
+msgstr "Publier sur LinkedIn"
+
+#. Plugin Name of the plugin/theme
+msgid "Hueman Addons"
+msgstr "Modules additionnels pour le thème Hueman"
+
+#. Description of the plugin/theme
+msgid "Hueman Theme Addons"
+msgstr "Modules additionnels pour le thème Hueman"
+
+#: hueman-addons.php:74
+msgid "Social Sharring Bar Settings"
+msgstr "Paramètres de la barre de partage social"
+
+#: hueman-addons.php:75
+msgid "Display social sharing buttons in each single articles."
+msgstr "Afficher les boutons de partage social sur chaque article."
+
+#: hueman-addons.php:83
+msgid "Make the Share Bar \"sticky\""
+msgstr "Fixer la barre de partage social"
+
+#: hueman-addons.php:84
+msgid "Make the social share bar stick to the browser window when scrolling down a post."
+msgstr "Fixer la barre de partage social à l'écran lors du défilement vertical d'un article."
+
+#: hueman-addons.php:73
+msgid "Display social sharing buttons in your single posts"
+msgstr "Afficher les boutons de partage social sur vos articles"
